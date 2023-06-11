@@ -1,0 +1,99 @@
+text,intent
+wikipedia,search_wikipedia
+play music random,play_music_random
+start the beat,play_music
+play music,play_music
+what is the time,get_time
+what is the date,get_date
+what is the day,get_day
+tell me a joke,get_joke
+battery,battery
+leave the program,exit
+exit,exit
+thank you,thank_you
+open youtube,open_youtube
+open whatsapp,open_whatsapp
+open twitter,open_twitter
+open yandex,open_yandex
+open opera,open_opera
+open stackoverflow,open_stackoverflow
+open stack,open_stackoverflow
+open facebook,open_facebook
+open instagram,open_instagram
+open google,open_google
+open insta,open_instagram
+open gmail,open_gmail
+open mail,open_gmail
+open maps,open_maps
+maps,open_maps
+open news,open_googlenews
+open documents,open_documents
+open docs,open_documents
+open amazon,open_amazon
+speaker up,volume_high
+set volume high,volume_high
+speaker medium,volume_medium
+set volume medium,volume_medium
+speaker down,volume_low
+set volume low,volume_low
+silence,volume_minimum
+set volume minimum,volume_minimum
+open code,open_code
+terminate code,close_code
+open eclipse,open_eclipse
+terminate eclipse,close_eclipse
+open excel,open_excel
+terminate excel,close_excel
+open discord,open_discord
+terminate discord,close_discord
+open steam,open_steam
+terminate steam,close_steam
+open microsoft word,open_word
+terminate microsoft word,close_word
+open notepad plus plus,open_notepad++
+terminate notepad plus plus,close_notepad++
+open powerpoint,open_powerpoint
+terminate powerpoint,close_powerpoint
+open paint,open_paint
+terminate paint,close_paint
+open calculator,open_calculator
+terminate calculator,close_calculator
+open notepad,open_notepad
+terminate notepad,close_notepad
+open snippingtool,open_tool
+terminate snippingtool,close_tool
+write to ,email_that
+take note,take_note
+show note,show_note
+screenshot,screenshot
+how are you,how_are_you
+good,good
+great ,good
+nice,good
+fine,good
+bad,not_good
+not fine,not_good
+what are you,what_are_you
+are you okay,are_you_okay
+how old are you,how_old_are_you
+are you tired,are_you_tired
+do you like music,do_you_like_music
+most asked topics,most_asked_topics
+do you know who am i,do_you_know_who_am_i
+can you hear me,can_you_hear_me
+hi ,greet
+hello,greet
+stop listening,stop_listening
+search,search
+play ,play_song
+sign out,sign_out
+restart,restart
+sleep,sleep
+empty recycle bin,empty_recycle
+shutdown the system,shutdown
+what is,what_is
+calculate,calculate
+where is ,where_is
+tell me the news,tell_me_the_news
+weather,weather
+ ,
